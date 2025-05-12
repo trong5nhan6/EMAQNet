@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/234801036630843725/5929c328075244deb60b1c3f7bdc7455/artifacts
+end_time: 1744125007929
+entry_point_name: ''
+experiment_id: '234801036630843725'
+lifecycle_stage: active
+run_id: 5929c328075244deb60b1c3f7bdc7455
+run_name: fortunate-ray-321
+run_uuid: 5929c328075244deb60b1c3f7bdc7455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744124249323
+status: 3
+tags: []
+user_id: ADMIN

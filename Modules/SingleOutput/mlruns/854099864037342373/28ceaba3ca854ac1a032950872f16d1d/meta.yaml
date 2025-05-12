@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/854099864037342373/28ceaba3ca854ac1a032950872f16d1d/artifacts
+end_time: 1743995786584
+entry_point_name: ''
+experiment_id: '854099864037342373'
+lifecycle_stage: active
+run_id: 28ceaba3ca854ac1a032950872f16d1d
+run_name: legendary-fowl-807
+run_uuid: 28ceaba3ca854ac1a032950872f16d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743995785501
+status: 4
+tags: []
+user_id: ADMIN

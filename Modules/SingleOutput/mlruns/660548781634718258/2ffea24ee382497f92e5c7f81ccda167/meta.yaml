@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/660548781634718258/2ffea24ee382497f92e5c7f81ccda167/artifacts
+end_time: 1742393556728
+entry_point_name: ''
+experiment_id: '660548781634718258'
+lifecycle_stage: active
+run_id: 2ffea24ee382497f92e5c7f81ccda167
+run_name: mercurial-swan-866
+run_uuid: 2ffea24ee382497f92e5c7f81ccda167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742393539856
+status: 4
+tags: []
+user_id: ADMIN

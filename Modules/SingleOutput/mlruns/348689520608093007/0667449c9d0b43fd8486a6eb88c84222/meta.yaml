@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/348689520608093007/0667449c9d0b43fd8486a6eb88c84222/artifacts
+end_time: 1744114430924
+entry_point_name: ''
+experiment_id: '348689520608093007'
+lifecycle_stage: active
+run_id: 0667449c9d0b43fd8486a6eb88c84222
+run_name: indecisive-ape-332
+run_uuid: 0667449c9d0b43fd8486a6eb88c84222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744113840615
+status: 3
+tags: []
+user_id: ADMIN

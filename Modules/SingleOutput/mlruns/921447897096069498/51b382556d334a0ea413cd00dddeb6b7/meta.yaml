@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/921447897096069498/51b382556d334a0ea413cd00dddeb6b7/artifacts
+end_time: 1742395813164
+entry_point_name: ''
+experiment_id: '921447897096069498'
+lifecycle_stage: active
+run_id: 51b382556d334a0ea413cd00dddeb6b7
+run_name: intrigued-cow-443
+run_uuid: 51b382556d334a0ea413cd00dddeb6b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742395105450
+status: 3
+tags: []
+user_id: ADMIN

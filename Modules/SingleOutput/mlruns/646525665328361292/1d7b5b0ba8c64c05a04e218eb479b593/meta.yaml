@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/646525665328361292/1d7b5b0ba8c64c05a04e218eb479b593/artifacts
+end_time: 1742371675725
+entry_point_name: ''
+experiment_id: '646525665328361292'
+lifecycle_stage: active
+run_id: 1d7b5b0ba8c64c05a04e218eb479b593
+run_name: honorable-sloth-796
+run_uuid: 1d7b5b0ba8c64c05a04e218eb479b593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742371674127
+status: 4
+tags: []
+user_id: ADMIN

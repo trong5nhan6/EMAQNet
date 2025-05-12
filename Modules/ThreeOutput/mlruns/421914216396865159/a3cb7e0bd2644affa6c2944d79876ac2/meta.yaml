@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/421914216396865159/a3cb7e0bd2644affa6c2944d79876ac2/artifacts
+end_time: 1744016860136
+entry_point_name: ''
+experiment_id: '421914216396865159'
+lifecycle_stage: active
+run_id: a3cb7e0bd2644affa6c2944d79876ac2
+run_name: funny-ray-149
+run_uuid: a3cb7e0bd2644affa6c2944d79876ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744016856524
+status: 4
+tags: []
+user_id: ADMIN

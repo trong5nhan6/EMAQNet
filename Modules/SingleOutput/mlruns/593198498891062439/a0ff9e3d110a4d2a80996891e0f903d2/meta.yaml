@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/593198498891062439/a0ff9e3d110a4d2a80996891e0f903d2/artifacts
+end_time: 1743999763685
+entry_point_name: ''
+experiment_id: '593198498891062439'
+lifecycle_stage: active
+run_id: a0ff9e3d110a4d2a80996891e0f903d2
+run_name: amusing-goat-276
+run_uuid: a0ff9e3d110a4d2a80996891e0f903d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743999748198
+status: 4
+tags: []
+user_id: ADMIN

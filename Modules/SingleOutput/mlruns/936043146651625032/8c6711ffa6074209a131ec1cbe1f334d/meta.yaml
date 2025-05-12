@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/936043146651625032/8c6711ffa6074209a131ec1cbe1f334d/artifacts
+end_time: 1742297101826
+entry_point_name: ''
+experiment_id: '936043146651625032'
+lifecycle_stage: active
+run_id: 8c6711ffa6074209a131ec1cbe1f334d
+run_name: beautiful-vole-444
+run_uuid: 8c6711ffa6074209a131ec1cbe1f334d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742297099898
+status: 4
+tags: []
+user_id: ADMIN

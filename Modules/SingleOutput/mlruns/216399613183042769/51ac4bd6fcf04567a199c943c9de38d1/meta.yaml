@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/216399613183042769/51ac4bd6fcf04567a199c943c9de38d1/artifacts
+end_time: 1743956729089
+entry_point_name: ''
+experiment_id: '216399613183042769'
+lifecycle_stage: active
+run_id: 51ac4bd6fcf04567a199c943c9de38d1
+run_name: languid-mole-346
+run_uuid: 51ac4bd6fcf04567a199c943c9de38d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743956573158
+status: 4
+tags: []
+user_id: ADMIN

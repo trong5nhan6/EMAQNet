@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/921447897096069498/d60dd76710df4e718e8e05911679ca88/artifacts
+end_time: 1742394459240
+entry_point_name: ''
+experiment_id: '921447897096069498'
+lifecycle_stage: active
+run_id: d60dd76710df4e718e8e05911679ca88
+run_name: worried-shoat-590
+run_uuid: d60dd76710df4e718e8e05911679ca88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742393874867
+status: 3
+tags: []
+user_id: ADMIN

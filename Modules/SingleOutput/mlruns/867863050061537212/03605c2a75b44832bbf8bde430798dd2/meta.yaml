@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/867863050061537212/03605c2a75b44832bbf8bde430798dd2/artifacts
+end_time: 1742278904478
+entry_point_name: ''
+experiment_id: '867863050061537212'
+lifecycle_stage: active
+run_id: 03605c2a75b44832bbf8bde430798dd2
+run_name: traveling-bug-11
+run_uuid: 03605c2a75b44832bbf8bde430798dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742278347868
+status: 3
+tags: []
+user_id: ADMIN

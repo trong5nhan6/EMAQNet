@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/234801036630843725/31a2049f445640b589ef92749c276ef2/artifacts
+end_time: 1744124249279
+entry_point_name: ''
+experiment_id: '234801036630843725'
+lifecycle_stage: active
+run_id: 31a2049f445640b589ef92749c276ef2
+run_name: persistent-swan-742
+run_uuid: 31a2049f445640b589ef92749c276ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744123510367
+status: 3
+tags: []
+user_id: ADMIN

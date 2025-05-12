@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/849152487398314030/d77dee9557654aeea6bf2a318a5a6622/artifacts
+end_time: 1742392980576
+entry_point_name: ''
+experiment_id: '849152487398314030'
+lifecycle_stage: active
+run_id: d77dee9557654aeea6bf2a318a5a6622
+run_name: rare-lamb-967
+run_uuid: d77dee9557654aeea6bf2a318a5a6622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742392962271
+status: 4
+tags: []
+user_id: ADMIN

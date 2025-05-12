@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/777366252533660158/424fc57c6832421085d5ef6df104fc7e/artifacts
+end_time: 1744092803878
+entry_point_name: ''
+experiment_id: '777366252533660158'
+lifecycle_stage: active
+run_id: 424fc57c6832421085d5ef6df104fc7e
+run_name: polite-worm-589
+run_uuid: 424fc57c6832421085d5ef6df104fc7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744091916218
+status: 3
+tags: []
+user_id: ADMIN

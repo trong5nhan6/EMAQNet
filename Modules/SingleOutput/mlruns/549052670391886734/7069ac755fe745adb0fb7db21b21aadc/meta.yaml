@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/549052670391886734/7069ac755fe745adb0fb7db21b21aadc/artifacts
+end_time: 1742312729408
+entry_point_name: ''
+experiment_id: '549052670391886734'
+lifecycle_stage: active
+run_id: 7069ac755fe745adb0fb7db21b21aadc
+run_name: bittersweet-boar-33
+run_uuid: 7069ac755fe745adb0fb7db21b21aadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742312727065
+status: 4
+tags: []
+user_id: ADMIN

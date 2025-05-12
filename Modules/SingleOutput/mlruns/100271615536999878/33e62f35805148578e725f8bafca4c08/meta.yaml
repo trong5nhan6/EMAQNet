@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/100271615536999878/33e62f35805148578e725f8bafca4c08/artifacts
+end_time: 1742392674453
+entry_point_name: ''
+experiment_id: '100271615536999878'
+lifecycle_stage: active
+run_id: 33e62f35805148578e725f8bafca4c08
+run_name: magnificent-foal-723
+run_uuid: 33e62f35805148578e725f8bafca4c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742392654365
+status: 4
+tags: []
+user_id: ADMIN

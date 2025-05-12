@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/967888903265591846/0a55d91d281645f985c312ac5a0d1efb/artifacts
+end_time: 1743996606992
+entry_point_name: ''
+experiment_id: '967888903265591846'
+lifecycle_stage: active
+run_id: 0a55d91d281645f985c312ac5a0d1efb
+run_name: big-eel-365
+run_uuid: 0a55d91d281645f985c312ac5a0d1efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743996605892
+status: 4
+tags: []
+user_id: ADMIN

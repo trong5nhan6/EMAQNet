@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/589118236998474453/6e92c2a42b8b4e38b9818566aa59157b/artifacts
+end_time: 1743958764045
+entry_point_name: ''
+experiment_id: '589118236998474453'
+lifecycle_stage: active
+run_id: 6e92c2a42b8b4e38b9818566aa59157b
+run_name: flawless-shrike-561
+run_uuid: 6e92c2a42b8b4e38b9818566aa59157b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743958237691
+status: 3
+tags: []
+user_id: ADMIN

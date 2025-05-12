@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/325204765008449340/f7b1876fc6b447a0b208516d7800eefd/artifacts
+end_time: 1743994508883
+entry_point_name: ''
+experiment_id: '325204765008449340'
+lifecycle_stage: active
+run_id: f7b1876fc6b447a0b208516d7800eefd
+run_name: ambitious-boar-614
+run_uuid: f7b1876fc6b447a0b208516d7800eefd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743994507769
+status: 4
+tags: []
+user_id: ADMIN

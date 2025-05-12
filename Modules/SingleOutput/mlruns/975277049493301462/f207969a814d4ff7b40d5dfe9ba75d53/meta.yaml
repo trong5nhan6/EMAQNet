@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/975277049493301462/f207969a814d4ff7b40d5dfe9ba75d53/artifacts
+end_time: 1743955779617
+entry_point_name: ''
+experiment_id: '975277049493301462'
+lifecycle_stage: active
+run_id: f207969a814d4ff7b40d5dfe9ba75d53
+run_name: grandiose-swan-330
+run_uuid: f207969a814d4ff7b40d5dfe9ba75d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743955779351
+status: 4
+tags: []
+user_id: ADMIN

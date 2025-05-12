@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/867863050061537212/90b098e462dd415d8661c1158430c376/artifacts
+end_time: 1742278347834
+entry_point_name: ''
+experiment_id: '867863050061537212'
+lifecycle_stage: active
+run_id: 90b098e462dd415d8661c1158430c376
+run_name: monumental-croc-43
+run_uuid: 90b098e462dd415d8661c1158430c376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742277736298
+status: 3
+tags: []
+user_id: ADMIN

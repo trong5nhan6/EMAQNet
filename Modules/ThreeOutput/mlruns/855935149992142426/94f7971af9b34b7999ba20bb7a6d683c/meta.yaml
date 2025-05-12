@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/855935149992142426/94f7971af9b34b7999ba20bb7a6d683c/artifacts
+end_time: 1744019903743
+entry_point_name: ''
+experiment_id: '855935149992142426'
+lifecycle_stage: active
+run_id: 94f7971af9b34b7999ba20bb7a6d683c
+run_name: caring-shad-250
+run_uuid: 94f7971af9b34b7999ba20bb7a6d683c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744019381129
+status: 3
+tags: []
+user_id: ADMIN

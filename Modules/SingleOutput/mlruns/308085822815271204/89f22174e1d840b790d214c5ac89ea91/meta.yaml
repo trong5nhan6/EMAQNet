@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/308085822815271204/89f22174e1d840b790d214c5ac89ea91/artifacts
+end_time: 1744113793632
+entry_point_name: ''
+experiment_id: '308085822815271204'
+lifecycle_stage: active
+run_id: 89f22174e1d840b790d214c5ac89ea91
+run_name: intelligent-sow-926
+run_uuid: 89f22174e1d840b790d214c5ac89ea91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744113676453
+status: 4
+tags: []
+user_id: ADMIN

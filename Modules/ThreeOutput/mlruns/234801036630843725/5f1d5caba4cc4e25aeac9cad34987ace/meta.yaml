@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/234801036630843725/5f1d5caba4cc4e25aeac9cad34987ace/artifacts
+end_time: 1744126417808
+entry_point_name: ''
+experiment_id: '234801036630843725'
+lifecycle_stage: active
+run_id: 5f1d5caba4cc4e25aeac9cad34987ace
+run_name: nervous-grouse-100
+run_uuid: 5f1d5caba4cc4e25aeac9cad34987ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744125746948
+status: 3
+tags: []
+user_id: ADMIN

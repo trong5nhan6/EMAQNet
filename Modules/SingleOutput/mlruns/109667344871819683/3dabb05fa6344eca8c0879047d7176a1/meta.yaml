@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/109667344871819683/3dabb05fa6344eca8c0879047d7176a1/artifacts
+end_time: 1743956971161
+entry_point_name: ''
+experiment_id: '109667344871819683'
+lifecycle_stage: active
+run_id: 3dabb05fa6344eca8c0879047d7176a1
+run_name: whimsical-crane-517
+run_uuid: 3dabb05fa6344eca8c0879047d7176a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743956809334
+status: 4
+tags: []
+user_id: ADMIN

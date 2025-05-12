@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/921447897096069498/dea481c305174c1a8913d14d9fca13d7/artifacts
+end_time: 1742396640632
+entry_point_name: ''
+experiment_id: '921447897096069498'
+lifecycle_stage: active
+run_id: dea481c305174c1a8913d14d9fca13d7
+run_name: abundant-jay-718
+run_uuid: dea481c305174c1a8913d14d9fca13d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742395813215
+status: 3
+tags: []
+user_id: ADMIN

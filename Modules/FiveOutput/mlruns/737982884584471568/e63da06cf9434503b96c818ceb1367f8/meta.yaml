@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/737982884584471568/e63da06cf9434503b96c818ceb1367f8/artifacts
+end_time: 1744027624877
+entry_point_name: ''
+experiment_id: '737982884584471568'
+lifecycle_stage: active
+run_id: e63da06cf9434503b96c818ceb1367f8
+run_name: gregarious-stag-1000
+run_uuid: e63da06cf9434503b96c818ceb1367f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744027132266
+status: 3
+tags: []
+user_id: ADMIN

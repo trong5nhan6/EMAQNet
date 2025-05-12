@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/735823889134676934/aacbf9436e7e43bea7963f86315f085b/artifacts
+end_time: 1743955972035
+entry_point_name: ''
+experiment_id: '735823889134676934'
+lifecycle_stage: active
+run_id: aacbf9436e7e43bea7963f86315f085b
+run_name: wistful-carp-649
+run_uuid: aacbf9436e7e43bea7963f86315f085b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743955971807
+status: 4
+tags: []
+user_id: ADMIN

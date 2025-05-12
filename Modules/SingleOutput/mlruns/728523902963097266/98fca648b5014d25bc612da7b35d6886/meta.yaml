@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/728523902963097266/98fca648b5014d25bc612da7b35d6886/artifacts
+end_time: 1742371818621
+entry_point_name: ''
+experiment_id: '728523902963097266'
+lifecycle_stage: active
+run_id: 98fca648b5014d25bc612da7b35d6886
+run_name: luminous-slug-582
+run_uuid: 98fca648b5014d25bc612da7b35d6886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742371817147
+status: 4
+tags: []
+user_id: ADMIN

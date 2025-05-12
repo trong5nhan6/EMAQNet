@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/690149696801926086/ac6c1fb2c2fe495b8e438d553038ac2c/artifacts
+end_time: 1744085282649
+entry_point_name: ''
+experiment_id: '690149696801926086'
+lifecycle_stage: active
+run_id: ac6c1fb2c2fe495b8e438d553038ac2c
+run_name: calm-colt-323
+run_uuid: ac6c1fb2c2fe495b8e438d553038ac2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744084515168
+status: 3
+tags: []
+user_id: ADMIN

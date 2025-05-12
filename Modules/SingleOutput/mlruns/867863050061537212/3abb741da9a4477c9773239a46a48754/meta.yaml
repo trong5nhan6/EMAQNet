@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/867863050061537212/3abb741da9a4477c9773239a46a48754/artifacts
+end_time: 1742279492311
+entry_point_name: ''
+experiment_id: '867863050061537212'
+lifecycle_stage: active
+run_id: 3abb741da9a4477c9773239a46a48754
+run_name: caring-robin-247
+run_uuid: 3abb741da9a4477c9773239a46a48754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742278904501
+status: 3
+tags: []
+user_id: ADMIN

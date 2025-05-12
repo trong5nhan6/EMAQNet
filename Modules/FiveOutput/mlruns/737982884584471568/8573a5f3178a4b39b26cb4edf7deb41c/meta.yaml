@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/737982884584471568/8573a5f3178a4b39b26cb4edf7deb41c/artifacts
+end_time: 1744025650392
+entry_point_name: ''
+experiment_id: '737982884584471568'
+lifecycle_stage: active
+run_id: 8573a5f3178a4b39b26cb4edf7deb41c
+run_name: sassy-steed-26
+run_uuid: 8573a5f3178a4b39b26cb4edf7deb41c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744025196824
+status: 3
+tags: []
+user_id: ADMIN

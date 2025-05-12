@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/422784294301460624/41e148b8b04e4e6f8b729bb0105ae691/artifacts
+end_time: 1742309168101
+entry_point_name: ''
+experiment_id: '422784294301460624'
+lifecycle_stage: active
+run_id: 41e148b8b04e4e6f8b729bb0105ae691
+run_name: judicious-finch-192
+run_uuid: 41e148b8b04e4e6f8b729bb0105ae691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742309166503
+status: 4
+tags: []
+user_id: ADMIN

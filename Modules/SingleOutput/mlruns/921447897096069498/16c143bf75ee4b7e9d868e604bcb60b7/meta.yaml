@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/921447897096069498/16c143bf75ee4b7e9d868e604bcb60b7/artifacts
+end_time: 1742397358608
+entry_point_name: ''
+experiment_id: '921447897096069498'
+lifecycle_stage: active
+run_id: 16c143bf75ee4b7e9d868e604bcb60b7
+run_name: gaudy-mole-474
+run_uuid: 16c143bf75ee4b7e9d868e604bcb60b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742396640696
+status: 3
+tags: []
+user_id: ADMIN

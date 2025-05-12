@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/500026774368439216/24384c21ab374733b0ce86cb94b9a0c8/artifacts
+end_time: 1744082951813
+entry_point_name: ''
+experiment_id: '500026774368439216'
+lifecycle_stage: active
+run_id: 24384c21ab374733b0ce86cb94b9a0c8
+run_name: magnificent-eel-762
+run_uuid: 24384c21ab374733b0ce86cb94b9a0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744082128045
+status: 4
+tags: []
+user_id: ADMIN

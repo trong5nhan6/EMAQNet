@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/773482180224787484/5d108d3f17ec4f478b3fdbf936c89a75/artifacts
+end_time: 1743995904148
+entry_point_name: ''
+experiment_id: '773482180224787484'
+lifecycle_stage: active
+run_id: 5d108d3f17ec4f478b3fdbf936c89a75
+run_name: nimble-hawk-777
+run_uuid: 5d108d3f17ec4f478b3fdbf936c89a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743995900988
+status: 4
+tags: []
+user_id: ADMIN

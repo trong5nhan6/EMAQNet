@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/224418052740850796/afe9171ced34464489994b960898ab7d/artifacts
+end_time: 1744016647090
+entry_point_name: ''
+experiment_id: '224418052740850796'
+lifecycle_stage: active
+run_id: afe9171ced34464489994b960898ab7d
+run_name: youthful-hawk-407
+run_uuid: afe9171ced34464489994b960898ab7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744016645277
+status: 4
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/928347038893802091/9c7a8d6bfb284df69ca64d33b807f251/artifacts
+end_time: 1742380889783
+entry_point_name: ''
+experiment_id: '928347038893802091'
+lifecycle_stage: active
+run_id: 9c7a8d6bfb284df69ca64d33b807f251
+run_name: luxuriant-goose-896
+run_uuid: 9c7a8d6bfb284df69ca64d33b807f251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742380889516
+status: 4
+tags: []
+user_id: ADMIN

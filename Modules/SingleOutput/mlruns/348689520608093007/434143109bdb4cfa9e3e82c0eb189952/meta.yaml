@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/348689520608093007/434143109bdb4cfa9e3e82c0eb189952/artifacts
+end_time: 1744116074028
+entry_point_name: ''
+experiment_id: '348689520608093007'
+lifecycle_stage: active
+run_id: 434143109bdb4cfa9e3e82c0eb189952
+run_name: luminous-shoat-284
+run_uuid: 434143109bdb4cfa9e3e82c0eb189952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744115529127
+status: 3
+tags: []
+user_id: ADMIN

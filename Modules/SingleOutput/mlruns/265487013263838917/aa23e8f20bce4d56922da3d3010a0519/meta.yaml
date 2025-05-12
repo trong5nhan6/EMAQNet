@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/265487013263838917/aa23e8f20bce4d56922da3d3010a0519/artifacts
+end_time: 1744081926623
+entry_point_name: ''
+experiment_id: '265487013263838917'
+lifecycle_stage: active
+run_id: aa23e8f20bce4d56922da3d3010a0519
+run_name: delightful-colt-331
+run_uuid: aa23e8f20bce4d56922da3d3010a0519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744081648175
+status: 4
+tags: []
+user_id: ADMIN

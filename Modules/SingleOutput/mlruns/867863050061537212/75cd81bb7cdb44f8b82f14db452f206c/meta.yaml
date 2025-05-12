@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/867863050061537212/75cd81bb7cdb44f8b82f14db452f206c/artifacts
+end_time: 1742280093316
+entry_point_name: ''
+experiment_id: '867863050061537212'
+lifecycle_stage: active
+run_id: 75cd81bb7cdb44f8b82f14db452f206c
+run_name: delightful-yak-391
+run_uuid: 75cd81bb7cdb44f8b82f14db452f206c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742279492355
+status: 3
+tags: []
+user_id: ADMIN

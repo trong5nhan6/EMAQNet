@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/384479073330959577/8945256e090d4ea1af948b1b598a4d4c/artifacts
+end_time: 1743997060018
+entry_point_name: ''
+experiment_id: '384479073330959577'
+lifecycle_stage: active
+run_id: 8945256e090d4ea1af948b1b598a4d4c
+run_name: illustrious-wolf-349
+run_uuid: 8945256e090d4ea1af948b1b598a4d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743997049951
+status: 4
+tags: []
+user_id: ADMIN

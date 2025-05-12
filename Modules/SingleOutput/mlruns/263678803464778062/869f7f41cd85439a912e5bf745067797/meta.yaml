@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/263678803464778062/869f7f41cd85439a912e5bf745067797/artifacts
+end_time: 1742313286621
+entry_point_name: ''
+experiment_id: '263678803464778062'
+lifecycle_stage: active
+run_id: 869f7f41cd85439a912e5bf745067797
+run_name: vaunted-lynx-747
+run_uuid: 869f7f41cd85439a912e5bf745067797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742313284264
+status: 4
+tags: []
+user_id: ADMIN

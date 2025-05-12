@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/690149696801926086/461ece92dad04b70afa786e333055ecf/artifacts
+end_time: 1744084515114
+entry_point_name: ''
+experiment_id: '690149696801926086'
+lifecycle_stage: active
+run_id: 461ece92dad04b70afa786e333055ecf
+run_name: indecisive-dog-276
+run_uuid: 461ece92dad04b70afa786e333055ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744083601505
+status: 3
+tags: []
+user_id: ADMIN

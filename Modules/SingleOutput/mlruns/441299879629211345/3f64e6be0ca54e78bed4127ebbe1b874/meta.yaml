@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/441299879629211345/3f64e6be0ca54e78bed4127ebbe1b874/artifacts
+end_time: 1743954186434
+entry_point_name: ''
+experiment_id: '441299879629211345'
+lifecycle_stage: active
+run_id: 3f64e6be0ca54e78bed4127ebbe1b874
+run_name: angry-bee-451
+run_uuid: 3f64e6be0ca54e78bed4127ebbe1b874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743954186249
+status: 4
+tags: []
+user_id: ADMIN

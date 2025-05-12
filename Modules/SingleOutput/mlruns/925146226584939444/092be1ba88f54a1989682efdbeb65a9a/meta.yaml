@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/925146226584939444/092be1ba88f54a1989682efdbeb65a9a/artifacts
+end_time: 1743995665279
+entry_point_name: ''
+experiment_id: '925146226584939444'
+lifecycle_stage: active
+run_id: 092be1ba88f54a1989682efdbeb65a9a
+run_name: nervous-smelt-190
+run_uuid: 092be1ba88f54a1989682efdbeb65a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743995664195
+status: 4
+tags: []
+user_id: ADMIN

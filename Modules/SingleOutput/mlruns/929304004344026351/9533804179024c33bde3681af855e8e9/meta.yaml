@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/929304004344026351/9533804179024c33bde3681af855e8e9/artifacts
+end_time: 1744081008931
+entry_point_name: ''
+experiment_id: '929304004344026351'
+lifecycle_stage: active
+run_id: 9533804179024c33bde3681af855e8e9
+run_name: clumsy-cat-380
+run_uuid: 9533804179024c33bde3681af855e8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744080977361
+status: 4
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/ThreeOutput/mlruns/483051527654576100/b3da2deeae204296990c68e178512af8/artifacts
+end_time: 1744017157312
+entry_point_name: ''
+experiment_id: '483051527654576100'
+lifecycle_stage: active
+run_id: b3da2deeae204296990c68e178512af8
+run_name: efficient-sponge-771
+run_uuid: b3da2deeae204296990c68e178512af8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017154508
+status: 4
+tags: []
+user_id: ADMIN

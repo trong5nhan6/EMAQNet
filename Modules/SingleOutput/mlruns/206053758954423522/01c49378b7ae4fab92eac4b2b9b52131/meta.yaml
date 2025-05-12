@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/206053758954423522/01c49378b7ae4fab92eac4b2b9b52131/artifacts
+end_time: 1742397613408
+entry_point_name: ''
+experiment_id: '206053758954423522'
+lifecycle_stage: active
+run_id: 01c49378b7ae4fab92eac4b2b9b52131
+run_name: rumbling-mink-103
+run_uuid: 01c49378b7ae4fab92eac4b2b9b52131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742397605612
+status: 4
+tags: []
+user_id: ADMIN

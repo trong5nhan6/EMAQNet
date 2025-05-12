@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/217805606588738821/e5b516ec99a34e24a8d11b9d2bbc4517/artifacts
+end_time: 1744079450871
+entry_point_name: ''
+experiment_id: '217805606588738821'
+lifecycle_stage: active
+run_id: e5b516ec99a34e24a8d11b9d2bbc4517
+run_name: debonair-bug-637
+run_uuid: e5b516ec99a34e24a8d11b9d2bbc4517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744079432238
+status: 4
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/733996445420796891/578166671b734f7ab0b3916d0979350a/artifacts
+end_time: 1744087292657
+entry_point_name: ''
+experiment_id: '733996445420796891'
+lifecycle_stage: active
+run_id: 578166671b734f7ab0b3916d0979350a
+run_name: rumbling-trout-100
+run_uuid: 578166671b734f7ab0b3916d0979350a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744087160314
+status: 4
+tags: []
+user_id: ADMIN

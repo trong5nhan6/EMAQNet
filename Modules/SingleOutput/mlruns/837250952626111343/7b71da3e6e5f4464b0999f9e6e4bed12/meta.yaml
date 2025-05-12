@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/837250952626111343/7b71da3e6e5f4464b0999f9e6e4bed12/artifacts
+end_time: 1744091391513
+entry_point_name: ''
+experiment_id: '837250952626111343'
+lifecycle_stage: active
+run_id: 7b71da3e6e5f4464b0999f9e6e4bed12
+run_name: flawless-fish-865
+run_uuid: 7b71da3e6e5f4464b0999f9e6e4bed12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744090541635
+status: 3
+tags: []
+user_id: ADMIN

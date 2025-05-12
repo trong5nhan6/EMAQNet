@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/149211548196373878/40282e5e96cc47678696fb8b854da5a4/artifacts
+end_time: 1742392812344
+entry_point_name: ''
+experiment_id: '149211548196373878'
+lifecycle_stage: active
+run_id: 40282e5e96cc47678696fb8b854da5a4
+run_name: sedate-dolphin-495
+run_uuid: 40282e5e96cc47678696fb8b854da5a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742392795615
+status: 4
+tags: []
+user_id: ADMIN

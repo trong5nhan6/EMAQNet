@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/308245258585735425/53bbe53cbd064ab69384371a19609c71/artifacts
+end_time: 1742372084658
+entry_point_name: ''
+experiment_id: '308245258585735425'
+lifecycle_stage: active
+run_id: 53bbe53cbd064ab69384371a19609c71
+run_name: nervous-hawk-993
+run_uuid: 53bbe53cbd064ab69384371a19609c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742372083276
+status: 4
+tags: []
+user_id: ADMIN

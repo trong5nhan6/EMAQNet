@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/194889851182007958/bde7ca0c77414032a9102bd9a27b17ca/artifacts
+end_time: 1743953563966
+entry_point_name: ''
+experiment_id: '194889851182007958'
+lifecycle_stage: active
+run_id: bde7ca0c77414032a9102bd9a27b17ca
+run_name: mysterious-bass-901
+run_uuid: bde7ca0c77414032a9102bd9a27b17ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743953561929
+status: 4
+tags: []
+user_id: ADMIN

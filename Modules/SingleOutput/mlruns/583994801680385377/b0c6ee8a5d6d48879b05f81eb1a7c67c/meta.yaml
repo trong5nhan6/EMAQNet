@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/583994801680385377/b0c6ee8a5d6d48879b05f81eb1a7c67c/artifacts
+end_time: 1744113478063
+entry_point_name: ''
+experiment_id: '583994801680385377'
+lifecycle_stage: active
+run_id: b0c6ee8a5d6d48879b05f81eb1a7c67c
+run_name: fortunate-gull-312
+run_uuid: b0c6ee8a5d6d48879b05f81eb1a7c67c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744113420403
+status: 4
+tags: []
+user_id: ADMIN

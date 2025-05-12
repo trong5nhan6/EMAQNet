@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/640544246697495895/789375123c154df49fcc9f317f6a5c6d/artifacts
+end_time: 1742311839468
+entry_point_name: ''
+experiment_id: '640544246697495895'
+lifecycle_stage: active
+run_id: 789375123c154df49fcc9f317f6a5c6d
+run_name: painted-goose-880
+run_uuid: 789375123c154df49fcc9f317f6a5c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742311837744
+status: 4
+tags: []
+user_id: ADMIN

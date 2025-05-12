@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_code/AQNet/Modules/SingleOutput/mlruns/358920480151396739/c94c4829734f49d7b4d7207992555492/artifacts
+end_time: 1744081276326
+entry_point_name: ''
+experiment_id: '358920480151396739'
+lifecycle_stage: active
+run_id: c94c4829734f49d7b4d7207992555492
+run_name: sedate-donkey-687
+run_uuid: c94c4829734f49d7b4d7207992555492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744081247059
+status: 4
+tags: []
+user_id: ADMIN
